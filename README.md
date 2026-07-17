@@ -15,3 +15,9 @@ The program asks the user to choose a conversion type, takes a temperature value
 - **Celsius = (Fahrenheit − 32) × 5/9**
 
 ## Demo
+----------- Temperature Convertor -------------
+1.Celsius To Fahrenheit
+2.Fahrenheit To Celsius
+Enter Your Choice: 1
+Enter Temperature in Celsius : 30
+Temperature in Fahrenheit: 86.00°F
