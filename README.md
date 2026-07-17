@@ -9,7 +9,7 @@ A simple beginner-friendly Python program that converts temperatures between **C
 - Beginner-friendly, easy to read code
 
 ## How It Works
-The program asks the user to choose a conversion type, takes a temperature value as input, and displays the converted result using the standard formulas:
+The program asks the user to choose a conversion type, takes a temperature value as input and displays the converted result using the standard formulas:
 
 - **Fahrenheit = (Celsius × 9/5) + 32**
 - **Celsius = (Fahrenheit − 32) × 5/9**
